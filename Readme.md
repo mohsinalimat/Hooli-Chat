@@ -26,6 +26,7 @@
         <li>Authenticate user: via phone number</li>
         <li>Set profile</li>
         <li>instant Reply</li>
+        <li>Audio recording - In progress </li>
     </ul>
     
 <h3>Pods</h3>
