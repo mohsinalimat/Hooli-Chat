@@ -14,7 +14,7 @@
 <h3>App main features</h3>
 <ul>
         <li>instant send and receive text</li>
-        <li>instant send and receive Photo from Gellary</li>
+        <li>instant send and receive Photo from Gallery</li>
         <li>Take photo and instant send and receive</li>
         <li>firebase backend</li>
     </ul>
