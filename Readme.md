@@ -1,4 +1,4 @@
-#Hooli-Chat - Holiigan assessmet
+# Hooli-Chat - Hooligan assessment
 
 
 <h1>Requirements</h1>
@@ -10,14 +10,14 @@
 
 <hr>
 
-<h3>App main features<h3>
+<h3>App main features</h3>
 <ul>
         <li>Send Photo from Gellary - including video</li>
         <li>Take photo to send - including video</li>
         <li>firebase backend</li>
     </ul>
 
-<h3>Bonus feature<h3>
+<h3>Bonus feature</h3>
     <ul>
         <li>Authenticate user: via phone number</li>
         <li>send text</li>
@@ -26,7 +26,9 @@
     <ul>
     
 <h3>Pods</h3>
-    <li>Firebase/Auth</li>
-    <li>Firebase/Database</li>
-    <li>Firebase/Storage</li>
+    <ul>
+        <li>Firebase/Auth</li>
+        <li>Firebase/Database</li>
+        <li>Firebase/Storage</li>
+    <ul>
     

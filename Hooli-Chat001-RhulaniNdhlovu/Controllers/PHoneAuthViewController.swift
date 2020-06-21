@@ -40,7 +40,7 @@ class PhoneAuthViewController: UIViewController{
     
     func initialUISetup(){
         //Large Title Setup
-        self.title = "Confirm your number"
+        self.title = "Confirm your 10 digit number"
         
         //Background setup
         bgview.layer.borderColor = UIColor.init(r: 193, g: 193, b: 193).cgColor
@@ -61,7 +61,7 @@ class PhoneAuthViewController: UIViewController{
 
     @IBAction func change(_ sender: UITextField) {
         //MARK:- Adding space after 5 digits ( visual purposes only )
-               print("hey")
+               print("test")
                if let text = sender.text{
                    if text.count > 0 && text.count % 6 == 0 && text.last! != " " {
                            sender.text!.insert(" ", at:text.index(text.startIndex, offsetBy: text.count-1) )
