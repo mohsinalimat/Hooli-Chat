@@ -12,23 +12,23 @@
 
 <h3>App main features</h3>
 <ul>
-        <li>Send Photo from Gellary - including video</li>
-        <li>Take photo to send - including video</li>
+        <li>instant send and receive text</li>
+        <li>instant send and receive Photo from Gellary - including video</li>
+        <li>Take photo and instant send and receive - including video</li>
         <li>firebase backend</li>
     </ul>
 
-<h3>Bonus feature</h3>
+<h3>Bonus features</h3>
     <ul>
         <li>Authenticate user: via phone number</li>
-        <li>send text</li>
         <li>Set profile</li>
-        <li>Reply</li>
-    <ul>
+        <li>instant Reply</li>
+    </ul>
     
 <h3>Pods</h3>
     <ul>
         <li>Firebase/Auth</li>
         <li>Firebase/Database</li>
         <li>Firebase/Storage</li>
-    <ul>
+    </ul>
     
