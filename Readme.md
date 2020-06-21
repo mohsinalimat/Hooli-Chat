@@ -21,7 +21,7 @@
 <h3>Bonus features</h3>
     <ul>
         <li>instant send and receive Video from Gellary</li>
-        <li>utilizes AVFoundation to play video<li>
+        <li>utilizes AVFoundation to play video</li>
         <li>Authenticate user: via phone number</li>
         <li>Set profile</li>
         <li>instant Reply</li>

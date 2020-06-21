@@ -51,7 +51,7 @@
                                     <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="Enter your phone number" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="os0-f5-fdZ">
                                         <rect key="frame" x="60" y="43" width="294" height="43"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                        <textInputTraits key="textInputTraits"/>
+                                        <textInputTraits key="textInputTraits" keyboardType="phonePad"/>
                                         <connections>
                                             <action selector="change:" destination="BYZ-38-t0r" eventType="editingChanged" id="ctE-5Z-dKL"/>
                                         </connections>
