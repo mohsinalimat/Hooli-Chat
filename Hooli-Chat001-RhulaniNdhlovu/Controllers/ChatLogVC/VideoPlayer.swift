@@ -2,7 +2,7 @@
 //  VideoPlayer.swift
 //  Hooli-Chat001-RhulaniNdhlovu
 //
-//  Created by SBI Admin on 2020/06/18.
+//  Created by SBI Admin on 2020/06/19.
 //  Copyright © 2020 Rhulani Ndhlovu. All rights reserved.
 //
 

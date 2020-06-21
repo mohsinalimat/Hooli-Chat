@@ -13,13 +13,15 @@
 <h3>App main features</h3>
 <ul>
         <li>instant send and receive text</li>
-        <li>instant send and receive Photo from Gellary - including video</li>
-        <li>Take photo and instant send and receive - including video</li>
+        <li>instant send and receive Photo from Gellary</li>
+        <li>Take photo and instant send and receive</li>
         <li>firebase backend</li>
     </ul>
 
 <h3>Bonus features</h3>
     <ul>
+        <li>instant send and receive Video from Gellary</li>
+        <li>utilizes AVFoundation to play video<li>
         <li>Authenticate user: via phone number</li>
         <li>Set profile</li>
         <li>instant Reply</li>
