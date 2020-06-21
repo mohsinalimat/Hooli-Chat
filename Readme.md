@@ -6,6 +6,7 @@
 <ul>
   <li>iOS 13.2+</li>
   <li>Xcode 10.0</li>
+  <li>pod install| Please run pod imstall to be able to app<l/i>
 </ul>
 
 <hr>
