@@ -1,4 +1,4 @@
-# Hooli-Chat - Hooligan assessment
+# Hooli-Chat
 
 
 <h1>Requirements</h1>
